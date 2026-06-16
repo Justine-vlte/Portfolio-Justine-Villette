@@ -9,4 +9,6 @@ Ce dépôt contient plusieurs documents :
 - Mes travaux de thèse : manuscrit et présentation de soutenance
 - Communications en conférences : abstracts, présentations, posters.
 
+En cas de difficultés pour visualiser ou télécharger certains documents, vous pouvez également les consulter au lien suivant : https://drive.google.com/drive/folders/1WGJMnUjKX9oSafAzwF1BGIilNHXYcHo2?usp=sharing 
+
 Je reste disponible pour toute question ou échange complémentaire et serais ravie d'échanger davantage sur mon parcours, mes expériences et mes motivations !
